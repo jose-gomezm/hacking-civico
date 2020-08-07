@@ -1,6 +1,6 @@
 # [Explorador de Datos de Violencia](https://exploralaviolencia.org/)
 
-<img src="https://exploralaviolencia.org/assets/images/avatar.png" width=50% height=50%>" width=50% height=50%>
+<img src="https://exploralaviolencia.org/assets/images/avatar.png" width=50% height=50%>
 
 El Explorador de datos de violencia tiene como objetivo facilitar el acceso y distribución de datos relacionados con cualquier tipo de violencia en el país. Esto incluye homicidos, suicidios y accidentes, así como secuestro, trata de personas y otros delitos que atentan contra la vida. Dependiendo del dato la fuente de los datos son los Registros de Mortalidad de INEGI o el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública. 
 
